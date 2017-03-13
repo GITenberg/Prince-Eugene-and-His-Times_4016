@@ -1,5 +1,8 @@
 _repo: Prince-Eugene-and-His-Times_4016
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mühlbach, L. (Luise)
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/830
     wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4016#Prince-Eugene-and-His-Times
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
