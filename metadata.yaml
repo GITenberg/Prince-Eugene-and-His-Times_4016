@@ -1,5 +1,5 @@
 _repo: Prince-Eugene-and-His-Times_4016
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PT'
 - !lcsh 'Eugene, of Savoy, Prince of Savoy, 1663-1736 -- Fiction'
+- GITenberg
 title: Prince Eugene and His Times
 url: http://www.gutenberg.org/ebooks/4016
